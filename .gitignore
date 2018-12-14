@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+myvenv
+secret_key.py
+trained_knn_model.clf
+/smartLock
+/knn_examples
+/bin
+/lib
+/include
